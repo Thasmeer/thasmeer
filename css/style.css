@@ -57,12 +57,20 @@ h3
         position: absolute;
         right: 23%;
         bottom: 87%;
+        max-width: 100%;
     }
 
 .bottom-cloud
     {
         position: absolute;
         right: 70%;
+        max-width: 100%;
+    }
+
+.mountain
+    {
+        max-width: 70%;
+        height: auto;
     }
 
 a
