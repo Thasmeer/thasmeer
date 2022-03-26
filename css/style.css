@@ -112,14 +112,14 @@ hr
         text-align: left;
     }
 
-.devskill
+.devskill-left
     {
         width: 25%;
         float: left;
         margin-right: 5%;
     }
 
-.reactskill
+.devskill-right
     {
         width: 25%;
         float:right;
